@@ -1,0 +1,10 @@
+build/
+out/
+*.exe
+*.pdb
+*.ilk
+*.ppm
+docs/evidence/*.mp4
+
+.vs/
+CMakeUserPresets.json
